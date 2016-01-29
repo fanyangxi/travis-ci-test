@@ -1,0 +1,22 @@
+{
+  "name": "travis-ci-test",
+  "version": "1.0.0",
+  "description": "my travis-ci-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanyangxi/travis-ci-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanyangxi/travis-ci-test/issues"
+  },
+  "homepage": "https://github.com/fanyangxi/travis-ci-test#readme",
+  "devDependencies": {
+    "jest-cli": "^0.8.2"
+  }
+}
